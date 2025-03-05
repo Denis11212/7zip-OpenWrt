@@ -6,4 +6,5 @@
 Вот ссылка на официальный репозиторий программы 7-Zip: https://github.com/ip7z/7zip
 
 Ещё у 7-Zip имеется официальный сайт: https://7-zip.org/
+
 И репозиторий, где можно связаться с автором 7-zip: https://sourceforge.net/projects/sevenzip/
