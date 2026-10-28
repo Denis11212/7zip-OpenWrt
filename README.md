@@ -12,3 +12,7 @@
 Ещё у 7-Zip имеется официальный сайт: https://7-zip.org/
 
 И репозиторий, где можно связаться с автором 7-zip: https://sourceforge.net/projects/sevenzip/
+
+# Где ещё взять 7z
+
+Оказывается в ImmortalWrt в репозиториях собирается пакет https://github.com/immortalwrt/packages/tree/master/utils/7z и поэтому проще и лучше брать бинарник оттуда, либо установочный файл, например, через этот адрес https://downloads.immortalwrt.org/releases/24.10.6/packages/aarch64_cortex-a53/packages/7z_26.02-r1_aarch64_cortex-a53.ipk или выбрать тут https://downloads.immortalwrt.org/releases/24.10.6/packages/ свою архитектуру и версию ОС можно сменить, сменив URL адрес.
